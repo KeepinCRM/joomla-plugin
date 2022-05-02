@@ -1,5 +1,5 @@
 # Інтеграція KeepinCRM з Joomla CMS (Virtuemart)
-Миттєве відправлення даних з Joomla CMS в KeepinCRM при створенні замовлення Virtuemart
+Миттєве відправлення даних з Joomla CMS в [KeepinCRM](https://bit.ly/3KCbyDR) при створенні замовлення Virtuemart
 
 Перевірено на версії Joomla 2.5.22 та Virtuemart v2.6.6
 
